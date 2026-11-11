@@ -3,7 +3,7 @@
     "id": "led-boards",
     "name": "LED Boards",
     "category": "Signage",
-    "image": "/images/services/led-boards.jpg",
+    "image": "/images/services/led-boards.jpg?v=2",
     "description": "High-impact illuminated 3D channel letters and glowing signage crafted for brilliant 24/7 commercial visibility and premium storefront aesthetics.",
     "features": [
       "Waterproof Outdoor Grade",
@@ -17,7 +17,7 @@
     "id": "backlight-boards",
     "name": "Backlight Boards",
     "category": "Signage",
-    "image": "/images/services/backlight-boards.jpg",
+    "image": "/images/services/backlight-boards.jpg?v=2",
     "description": "Uniform backlit glow signage featuring high-clarity translucent flex or acrylic facing, perfect for retail showrooms and evening traffic.",
     "features": [
       "Even Light Diffusion",
@@ -31,7 +31,7 @@
     "id": "flex-boards",
     "name": "Flex Boards",
     "category": "Outdoor",
-    "image": "/images/services/flex-boards.jpg",
+    "image": "/images/services/flex-boards.jpg?v=2",
     "description": "Durable iron-framed flex display boards for commercial shops, institutions, event announcements, and large-format outdoor marketing.",
     "features": [
       "Tough GI Pipe Framing",
@@ -45,7 +45,7 @@
     "id": "auto-stickers",
     "name": "Auto Stickers",
     "category": "Outdoor",
-    "image": "/images/services/auto-stickers.jpg",
+    "image": "/images/services/auto-stickers.jpg?v=2",
     "description": "High-durability transit vinyl stickers and auto-rickshaw back panel branding delivering non-stop city-wide mobile visibility across Guntur.",
     "features": [
       "UV-Protected Inks",
@@ -59,7 +59,7 @@
     "id": "flex-printing",
     "name": "Flex Printing",
     "category": "Printing",
-    "image": "/images/services/flex-printing.jpg",
+    "image": "/images/services/flex-printing.jpg?v=2",
     "description": "Wide-format solvent and eco-solvent printing delivering rich color saturation, razor-sharp detail, and lasting weather endurance.",
     "features": [
       "Industrial Printing Machines",
@@ -73,7 +73,7 @@
     "id": "tshirt-printing",
     "name": "T-Shirt Printing",
     "category": "Promotional",
-    "image": "/images/services/tshirt-printing.jpg",
+    "image": "/images/services/tshirt-printing.jpg?v=2",
     "description": "Customized corporate round neck and polo collar t-shirts tailored with high-density screen printing, DTF, and computer embroidery.",
     "features": [
       "100% Combed Cotton & Dri-Fit",
@@ -87,7 +87,7 @@
     "id": "rollup-standees",
     "name": "Rollup Standees",
     "category": "Promotional",
-    "image": "/images/services/rollup-standees.jpg",
+    "image": "/images/services/rollup-standees.jpg?v=2",
     "description": "Ultra-portable aluminum roll-up banner stands with carrying bags, ideal for exhibitions, conferences, product launches, and lobby displays.",
     "features": [
       "Lightweight Aluminum Base",
@@ -101,7 +101,7 @@
     "id": "demo-tents",
     "name": "Demo Tents",
     "category": "Promotional",
-    "image": "/images/services/demo-tents.jpg",
+    "image": "/images/services/demo-tents.jpg?v=2",
     "description": "Heavy-duty pop-up gazebo canopy tents for field promotions, rural activations, product sampling, and outdoor corporate exhibitions.",
     "features": [
       "Foldable Scissor Frame",
@@ -115,7 +115,7 @@
     "id": "visiting-cards",
     "name": "Visiting Cards",
     "category": "Branding",
-    "image": "/images/services/visiting-cards.jpg",
+    "image": "/images/services/visiting-cards.jpg?v=2",
     "description": "Luxury executive business cards crafted on heavyweight artboards with velvet matte lamination, raised spot UV, and elegant gold foil stamping.",
     "features": [
       "350–450 GSM Premium Cards",
@@ -129,7 +129,7 @@
     "id": "pamphlet-printing",
     "name": "Pamphlet Printing",
     "category": "Printing",
-    "image": "/images/services/pamphlet-printing.jpg",
+    "image": "/images/services/pamphlet-printing.jpg?v=2",
     "description": "Premium multi-color offset printed flyers, leaflets, and brochures on high-grade gloss or matte paper designed for maximum promotional conversion.",
     "features": [
       "Offset Color Fidelity",
@@ -143,7 +143,7 @@
     "id": "umbrella-printing",
     "name": "Umbrella Printing",
     "category": "Promotional",
-    "image": "/images/services/umbrella-printing.jpg",
+    "image": "/images/services/umbrella-printing.jpg?v=2",
     "description": "Custom branded garden, promotional, and market umbrellas engineered with heavy frames and vivid water-resistant printed fabrics.",
     "features": [
       "Rain & Sun Proof Fabric",
@@ -157,7 +157,7 @@
     "id": "cap-printing",
     "name": "Cap Printing",
     "category": "Promotional",
-    "image": "/images/services/cap-printing.jpg",
+    "image": "/images/services/cap-printing.jpg?v=2",
     "description": "Custom branded caps and event headwear featuring high-precision embroidery or thermal film transfers for staff uniforms and rallies.",
     "features": [
       "Durable Twill Fabric",
@@ -171,7 +171,7 @@
     "id": "no-parking-boards",
     "name": "No Parking Boards",
     "category": "Outdoor",
-    "image": "/images/services/no-parking-boards.jpg",
+    "image": "/images/services/no-parking-boards.jpg?v=2",
     "description": "Customized Sunpack and tin plate gate signage combining civic notices with high-impact company advertising for persistent neighborhood recall.",
     "features": [
       "Durable Sunpack Sheets",
@@ -185,7 +185,7 @@
     "id": "pamphlet-distribution",
     "name": "Pamphlet Distribution",
     "category": "Outdoor",
-    "image": "/images/services/pamphlet-distribution.jpg",
+    "image": "/images/services/pamphlet-distribution.jpg?v=2",
     "description": "Targeted door-to-door and morning newspaper insert campaign management reaching thousands of households across prime Guntur localities.",
     "features": [
       "Area-Wise Strategic Route Planning",
@@ -199,7 +199,7 @@
     "id": "pole-banners",
     "name": "Pole Banners",
     "category": "Outdoor",
-    "image": "/images/services/pole-banners.jpg",
+    "image": "/images/services/pole-banners.jpg?v=2",
     "description": "Streetlight pole kiosks and vertical street avenue banners positioned along major traffic corridors for repetitive high-frequency branding.",
     "features": [
       "Sturdy Metal Brackets",
@@ -213,7 +213,7 @@
     "id": "acrylic-boards",
     "name": "Acrylic Boards",
     "category": "Signage",
-    "image": "/images/services/acrylic-boards.jpg",
+    "image": "/images/services/acrylic-boards.jpg?v=2",
     "description": "Precision laser-cut 3D acrylic signs, executive nameplates, reception logos, and modern architectural displays with edge-lit LED illumination.",
     "features": [
       "Virgin Cast Acrylic",
@@ -227,7 +227,7 @@
     "id": "indoor-stickering",
     "name": "Indoor Stickering",
     "category": "Branding",
-    "image": "/images/services/indoor-stickering.jpg",
+    "image": "/images/services/indoor-stickering.jpg?v=2",
     "description": "Frosted window film, custom die-cut vinyl wall murals, glass manifestation, and creative interior branding for offices and retail outlets.",
     "features": [
       "Non-Damaging Architectural Vinyl",
@@ -241,7 +241,7 @@
     "id": "photo-frames",
     "name": "Photo Frames",
     "category": "Branding",
-    "image": "/images/services/photo-frames.jpg",
+    "image": "/images/services/photo-frames.jpg?v=2",
     "description": "Custom crafted luxury photo frames, canvas prints, corporate achievement plaques, and personalized artistic wall presentations.",
     "features": [
       "Premium Wood & Polymer Mouldings",
