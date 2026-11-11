@@ -5,4 +5,5 @@ Disallow: /admin/
 Disallow: /admin-login
 Disallow: /api/
 
-Sitemap: https://auracreationss.com/sitemap.xml
+Sitemap: https://www.auracreationss.com/sitemap.xml
+
