@@ -1,0 +1,143 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  }
+  
+  body {
+    background-color: #06050b;
+    color: #f1f5f9;
+    overflow-x: hidden;
+  }
+
+  /* Montserrat Font for all major website headings */
+  h1, h2, h3, h4, h5, h6, .font-heading {
+    font-family: 'Montserrat', sans-serif;
+  }
+}
+
+.font-heading {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.font-signature {
+  font-family: 'Caveat', 'Kaushan Script', cursive;
+}
+
+/* PhonePe Style Planetary Orbit System */
+@keyframes spinClockwise {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes spinCounterClockwise {
+  from {
+    transform: rotate(360deg);
+  }
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+.animate-orbit-inner {
+  animation: spinClockwise 28s linear infinite;
+}
+
+.animate-orbit-middle {
+  animation: spinCounterClockwise 42s linear infinite;
+}
+
+.animate-orbit-outer {
+  animation: spinClockwise 58s linear infinite;
+}
+
+.animate-counter-rotate-inner {
+  animation: spinCounterClockwise 28s linear infinite;
+}
+
+.animate-counter-rotate-middle {
+  animation: spinClockwise 42s linear infinite;
+}
+
+.animate-counter-rotate-outer {
+  animation: spinCounterClockwise 58s linear infinite;
+}
+
+/* Custom glow and glassmorphism utilities */
+.glass-panel {
+  background: rgba(18, 12, 34, 0.75);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.glass-card {
+  background: rgba(22, 14, 40, 0.6);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(236, 72, 153, 0.15);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.glass-card:hover {
+  border-color: rgba(212, 175, 55, 0.45);
+  box-shadow: 0 10px 30px -10px rgba(192, 38, 211, 0.25), 0 0 20px 0 rgba(212, 175, 55, 0.15);
+}
+
+.brand-gradient-text {
+  background: linear-gradient(135deg, #f43f5e 0%, #d946ef 35%, #8b5cf6 70%, #60a5fa 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gold-gradient-text {
+  background: linear-gradient(135deg, #fffbeb 0%, #fde047 30%, #eab308 60%, #ca8a04 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.brand-btn-primary {
+  background: linear-gradient(135deg, #d946ef 0%, #9333ea 50%, #4f46e5 100%);
+  color: white;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 20px rgba(217, 70, 239, 0.35);
+}
+
+.brand-btn-primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 30px rgba(217, 70, 239, 0.55);
+}
+
+.brand-btn-gold {
+  background: linear-gradient(135deg, #f59e0b 0%, #d97706 50%, #b45309 100%);
+  color: #0d0614;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 20px rgba(245, 158, 11, 0.3);
+}
+
+.brand-btn-gold:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 30px rgba(245, 158, 11, 0.5);
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #090611;
+}
+::-webkit-scrollbar-thumb {
+  background: #2e1a47;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #c026d3;
+}

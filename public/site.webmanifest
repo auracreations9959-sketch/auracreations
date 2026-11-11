@@ -1,0 +1,21 @@
+{
+  "name": "Aura Creations Advertising & Branding",
+  "short_name": "Aura Creations",
+  "description": "Premier Advertising, Printing & Corporate Branding Agency in Guntur, Andhra Pradesh",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#06050b",
+  "theme_color": "#06050b",
+  "icons": [
+    {
+      "src": "/images/logo/logo-transparent.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/logo/logo-transparent.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

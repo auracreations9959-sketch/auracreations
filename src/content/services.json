@@ -1,0 +1,254 @@
+[
+  {
+    "id": "led-boards",
+    "name": "LED Boards",
+    "category": "Signage",
+    "image": "/images/services/led-boards.jpg",
+    "description": "High-impact illuminated 3D channel letters and glowing signage crafted for brilliant 24/7 commercial visibility and premium storefront aesthetics.",
+    "features": [
+      "Waterproof Outdoor Grade",
+      "Energy-Efficient LED Modules",
+      "Custom 3D Letter Fabrication"
+    ],
+    "price": "Starting from ₹120 / sq.ft",
+    "tag": "Best Seller"
+  },
+  {
+    "id": "backlight-boards",
+    "name": "Backlight Boards",
+    "category": "Signage",
+    "image": "/images/services/backlight-boards.jpg",
+    "description": "Uniform backlit glow signage featuring high-clarity translucent flex or acrylic facing, perfect for retail showrooms and evening traffic.",
+    "features": [
+      "Even Light Diffusion",
+      "Heavy-Duty Powder Coated Box",
+      "High Chroma Translucent Film"
+    ],
+    "price": "Starting from ₹85 / sq.ft",
+    "tag": "Popular"
+  },
+  {
+    "id": "flex-boards",
+    "name": "Flex Boards",
+    "category": "Outdoor",
+    "image": "/images/services/flex-boards.jpg",
+    "description": "Durable iron-framed flex display boards for commercial shops, institutions, event announcements, and large-format outdoor marketing.",
+    "features": [
+      "Tough GI Pipe Framing",
+      "Weather-Resistant Media",
+      "Cost-Effective Large Impact"
+    ],
+    "price": "Starting from ₹35 / sq.ft",
+    "tag": "Essential"
+  },
+  {
+    "id": "auto-stickers",
+    "name": "Auto Stickers",
+    "category": "Outdoor",
+    "image": "/images/services/auto-stickers.jpg",
+    "description": "High-durability transit vinyl stickers and auto-rickshaw back panel branding delivering non-stop city-wide mobile visibility across Guntur.",
+    "features": [
+      "UV-Protected Inks",
+      "Bubble-Free Adhesion",
+      "Maximum Daily Commuter Reach"
+    ],
+    "price": "Starting from ₹450 / auto",
+    "tag": "High ROI"
+  },
+  {
+    "id": "flex-printing",
+    "name": "Flex Printing",
+    "category": "Printing",
+    "image": "/images/services/flex-printing.jpg",
+    "description": "Wide-format solvent and eco-solvent printing delivering rich color saturation, razor-sharp detail, and lasting weather endurance.",
+    "features": [
+      "Industrial Printing Machines",
+      "Frontlit & Backlit Media",
+      "Rapid Same-Day Turnaround"
+    ],
+    "price": "Starting from ₹12 / sq.ft",
+    "tag": "Core Craft"
+  },
+  {
+    "id": "tshirt-printing",
+    "name": "T-Shirt Printing",
+    "category": "Promotional",
+    "image": "/images/services/tshirt-printing.jpg",
+    "description": "Customized corporate round neck and polo collar t-shirts tailored with high-density screen printing, DTF, and computer embroidery.",
+    "features": [
+      "100% Combed Cotton & Dri-Fit",
+      "Wash-Fast Vibrant Inks",
+      "All Corporate & Event Sizes"
+    ],
+    "price": "Starting from ₹180 / piece",
+    "tag": "Merchandise"
+  },
+  {
+    "id": "rollup-standees",
+    "name": "Rollup Standees",
+    "category": "Promotional",
+    "image": "/images/services/rollup-standees.jpg",
+    "description": "Ultra-portable aluminum roll-up banner stands with carrying bags, ideal for exhibitions, conferences, product launches, and lobby displays.",
+    "features": [
+      "Lightweight Aluminum Base",
+      "Non-Tear Star Flex / Satin Media",
+      "Instant 30-Second Setup"
+    ],
+    "price": "Starting from ₹1,250 / unit",
+    "tag": "Event Favorite"
+  },
+  {
+    "id": "demo-tents",
+    "name": "Demo Tents",
+    "category": "Promotional",
+    "image": "/images/services/demo-tents.jpg",
+    "description": "Heavy-duty pop-up gazebo canopy tents for field promotions, rural activations, product sampling, and outdoor corporate exhibitions.",
+    "features": [
+      "Foldable Scissor Frame",
+      "Waterproof Branded Roof & Walls",
+      "Quick Assembly & Transport"
+    ],
+    "price": "Starting from ₹3,800 / unit",
+    "tag": "Activation"
+  },
+  {
+    "id": "visiting-cards",
+    "name": "Visiting Cards",
+    "category": "Branding",
+    "image": "/images/services/visiting-cards.jpg",
+    "description": "Luxury executive business cards crafted on heavyweight artboards with velvet matte lamination, raised spot UV, and elegant gold foil stamping.",
+    "features": [
+      "350–450 GSM Premium Cards",
+      "Velvet & Matte Lamination",
+      "Metallic Gold / Silver Foil"
+    ],
+    "price": "Starting from ₹450 / 1,000 cards",
+    "tag": "Luxury"
+  },
+  {
+    "id": "pamphlet-printing",
+    "name": "Pamphlet Printing",
+    "category": "Printing",
+    "image": "/images/services/pamphlet-printing.jpg",
+    "description": "Premium multi-color offset printed flyers, leaflets, and brochures on high-grade gloss or matte paper designed for maximum promotional conversion.",
+    "features": [
+      "Offset Color Fidelity",
+      "Double & Single Sided",
+      "Bulk Quantity Economics"
+    ],
+    "price": "Starting from ₹0.75 / copy",
+    "tag": "Direct Marketing"
+  },
+  {
+    "id": "umbrella-printing",
+    "name": "Umbrella Printing",
+    "category": "Promotional",
+    "image": "/images/services/umbrella-printing.jpg",
+    "description": "Custom branded garden, promotional, and market umbrellas engineered with heavy frames and vivid water-resistant printed fabrics.",
+    "features": [
+      "Rain & Sun Proof Fabric",
+      "Strong Wind-Resistant Ribs",
+      "Street Market Dominance"
+    ],
+    "price": "Starting from ₹850 / piece",
+    "tag": "Promotional"
+  },
+  {
+    "id": "cap-printing",
+    "name": "Cap Printing",
+    "category": "Promotional",
+    "image": "/images/services/cap-printing.jpg",
+    "description": "Custom branded caps and event headwear featuring high-precision embroidery or thermal film transfers for staff uniforms and rallies.",
+    "features": [
+      "Durable Twill Fabric",
+      "Adjustable Velcro / Brass Buckle",
+      "Prominent Front Emblem"
+    ],
+    "price": "Starting from ₹95 / piece",
+    "tag": "Apparel"
+  },
+  {
+    "id": "no-parking-boards",
+    "name": "No Parking Boards",
+    "category": "Outdoor",
+    "image": "/images/services/no-parking-boards.jpg",
+    "description": "Customized Sunpack and tin plate gate signage combining civic notices with high-impact company advertising for persistent neighborhood recall.",
+    "features": [
+      "Durable Sunpack Sheets",
+      "Sun & Rain Proof Screen Print",
+      "High Residential Frequency"
+    ],
+    "price": "Starting from ₹45 / board",
+    "tag": "Street Sign"
+  },
+  {
+    "id": "pamphlet-distribution",
+    "name": "Pamphlet Distribution",
+    "category": "Outdoor",
+    "image": "/images/services/pamphlet-distribution.jpg",
+    "description": "Targeted door-to-door and morning newspaper insert campaign management reaching thousands of households across prime Guntur localities.",
+    "features": [
+      "Area-Wise Strategic Route Planning",
+      "Supervised Distribution",
+      "Verifiable Reach Reports"
+    ],
+    "price": "Starting from ₹350 / 1,000 flyers",
+    "tag": "Turnkey"
+  },
+  {
+    "id": "pole-banners",
+    "name": "Pole Banners",
+    "category": "Outdoor",
+    "image": "/images/services/pole-banners.jpg",
+    "description": "Streetlight pole kiosks and vertical street avenue banners positioned along major traffic corridors for repetitive high-frequency branding.",
+    "features": [
+      "Sturdy Metal Brackets",
+      "Dual-Sided Visible Graphics",
+      "Prime Commuter Corridors"
+    ],
+    "price": "Starting from ₹280 / kiosk",
+    "tag": "Urban Impact"
+  },
+  {
+    "id": "acrylic-boards",
+    "name": "Acrylic Boards",
+    "category": "Signage",
+    "image": "/images/services/acrylic-boards.jpg",
+    "description": "Precision laser-cut 3D acrylic signs, executive nameplates, reception logos, and modern architectural displays with edge-lit LED illumination.",
+    "features": [
+      "Virgin Cast Acrylic",
+      "Laser Cut Precision",
+      "Polished Crystal Edges"
+    ],
+    "price": "Starting from ₹160 / sq.ft",
+    "tag": "Architectural"
+  },
+  {
+    "id": "indoor-stickering",
+    "name": "Indoor Stickering",
+    "category": "Branding",
+    "image": "/images/services/indoor-stickering.jpg",
+    "description": "Frosted window film, custom die-cut vinyl wall murals, glass manifestation, and creative interior branding for offices and retail outlets.",
+    "features": [
+      "Non-Damaging Architectural Vinyl",
+      "Matte & Frosted Textures",
+      "Custom Die-Cut Profiles"
+    ],
+    "price": "Starting from ₹45 / sq.ft",
+    "tag": "Interior"
+  },
+  {
+    "id": "photo-frames",
+    "name": "Photo Frames",
+    "category": "Branding",
+    "image": "/images/services/photo-frames.jpg",
+    "description": "Custom crafted luxury photo frames, canvas prints, corporate achievement plaques, and personalized artistic wall presentations.",
+    "features": [
+      "Premium Wood & Polymer Mouldings",
+      "Non-Reflective Glass & Lamination",
+      "Custom Sizes & Framing"
+    ],
+    "price": "Starting from ₹350 / frame",
+    "tag": "Artisan"
+  }
+]

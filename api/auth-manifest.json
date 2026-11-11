@@ -1,0 +1,9 @@
+{
+  "email": "auracreations9959@gmail.com",
+  "passwordHash": "ed8ca5872052534a5ff3661500b9160d82477b3ddcf1bd011246e97d409c1749cc9adfe0f691d7c4b2476a603e754ceb4e7369139e4d4b2c60f5d95eaea5f4b8",
+  "passwordSalt": "404c9c97ea80d44ec6d46660028d2a9f",
+  "recoveryHash": "384a713adff74d067c8260e48ad1cc23c9a0485368e1ce1fa61c576b81164609",
+  "recoverySalt": "8f31cf18785e214cd5ac8c72944786dc",
+  "createdAt": "2026-11-07T16:50:13.090Z",
+  "updatedAt": "2026-11-10T05:04:32.706Z"
+}

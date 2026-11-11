@@ -1,0 +1,137 @@
+[
+  {
+    "id": "port-1",
+    "title": "Hotel Aditya Grand Plaza Signage",
+    "category": "LED & Sign Boards",
+    "image": "/images/portfolio/led-boards.jpg",
+    "description": "Grand exterior 3D illuminated LED channel lettering and canopy lighting for premier hotel architecture.",
+    "client": "Hotel Aditya Grand Plaza",
+    "tags": ["LED Letters", "3D Glow Sign", "Architectural"]
+  },
+  {
+    "id": "port-2",
+    "title": "4S Mobiles Illuminated Pylon Display",
+    "category": "LED & Sign Boards",
+    "image": "/images/portfolio/backlight-boards.jpg",
+    "description": "Multi-tier illuminated retail backlight board showcasing premier smartphone brands with high evening vibrancy.",
+    "client": "4S Mobiles Sales & Service",
+    "tags": ["Backlight Board", "Retail Showroom", "Dual Sided"]
+  },
+  {
+    "id": "port-3",
+    "title": "Industrial High-Speed Flex Printing System",
+    "category": "Printing",
+    "image": "/images/portfolio/flex-printing.jpg",
+    "description": "In-house wide-format eco-solvent & solvent digital print run delivering vivid large-scale advertising canvases.",
+    "client": "Aura Production Studio",
+    "tags": ["Eco-Solvent", "Wide Format", "High Chroma"]
+  },
+  {
+    "id": "port-4",
+    "title": "Sri Venkateswara Nilayam 3D Acrylic Board",
+    "category": "LED & Sign Boards",
+    "image": "/images/portfolio/acrylic-boards.jpg",
+    "description": "Round luxury acrylic nameplate featuring embossed gold typography, laser-cut emblem, and integrated warm lighting.",
+    "client": "Inturi Family",
+    "tags": ["3D Acrylic", "Laser Cut", "Gold Accent"]
+  },
+  {
+    "id": "port-5",
+    "title": "Commercial Market Promotional Umbrella",
+    "category": "Promotional Products",
+    "image": "/images/portfolio/umbrella-printing.jpg",
+    "description": "Durable commercial printed outdoor umbrella built for vendor branding and corporate field campaigns.",
+    "client": "Retail Campaign",
+    "tags": ["Umbrella Print", "Waterproof", "Promotional"]
+  },
+  {
+    "id": "port-6",
+    "title": "Designer Branded T-Shirt Collection",
+    "category": "Promotional Products",
+    "image": "/images/portfolio/tshirt-printing.jpg",
+    "description": "Custom high-density screen printed corporate apparel crafted with precision graphics and soft combed cotton.",
+    "client": "Fashion & Corporate Wear",
+    "tags": ["Apparel", "Screen Print", "Custom Graphic"]
+  },
+  {
+    "id": "port-7",
+    "title": "TBZ Jewellers Avenue Pole Banners",
+    "category": "Outdoor Advertising",
+    "image": "/images/portfolio/pole-banners.jpg",
+    "description": "Avenue streetlight pole kiosks strategically positioned along high-traffic routes for luxury brand recall.",
+    "client": "TBZ Jewellers",
+    "tags": ["Pole Banner", "Street Kiosk", "High Recall"]
+  },
+  {
+    "id": "port-8",
+    "title": "Educational Institution Flex Board",
+    "category": "Outdoor Advertising",
+    "image": "/images/portfolio/flex-boards.jpg",
+    "description": "Large-scale institutional campus hoarding with vibrant student toppers showcase and heavy iron framing.",
+    "client": "Talent / Tagore School",
+    "tags": ["Flex Hoarding", "Institution", "Sturdy Frame"]
+  },
+  {
+    "id": "port-9",
+    "title": "Transit Auto Rickshaw Mobile Branding",
+    "category": "Outdoor Advertising",
+    "image": "/images/portfolio/auto-stickers.jpg",
+    "description": "Full rear panel high-tack vinyl vehicle wraps for non-stop moving street presence across Guntur.",
+    "client": "Commercial Transit",
+    "tags": ["Auto Sticker", "Transit Media", "City-Wide"]
+  },
+  {
+    "id": "port-10",
+    "title": "Corporate Promotional Gazebo Tent",
+    "category": "Promotional Products",
+    "image": "/images/portfolio/demo-tents.jpg",
+    "description": "Pop-up canopy booth with high-definition digital printed valances and waterproof branded sidewalls.",
+    "client": "Mobile Roadshow",
+    "tags": ["Demo Tent", "Canopy", "Field Marketing"]
+  },
+  {
+    "id": "port-11",
+    "title": "Luxury Gold Foil Executive Visiting Cards",
+    "category": "Branding",
+    "image": "/images/portfolio/visiting-cards.jpg",
+    "description": "Artisan business cards featuring matte black velvet touch paper, custom gold foil emblem, and precision edges.",
+    "client": "Executive Suite",
+    "tags": ["Gold Foil", "Velvet Matte", "Spot UV"]
+  },
+  {
+    "id": "port-12",
+    "title": "Promotional Commercial Flyers & Leaflets",
+    "category": "Printing",
+    "image": "/images/portfolio/pamphlet-printing.jpg",
+    "description": "Double-sided gloss art paper flyers printed with multi-color offset fidelity for direct marketing.",
+    "client": "Retail Campaign",
+    "tags": ["Offset Print", "Flyers", "Leaflets"]
+  },
+  {
+    "id": "port-13",
+    "title": "Corporate Exhibition Rollup Standees",
+    "category": "Promotional Products",
+    "image": "/images/portfolio/rollup-standees.jpg",
+    "description": "High-tension non-curl satin banner displays with sleek anodized aluminum cassette and carry cases.",
+    "client": "Trade Expo Showcase",
+    "tags": ["Rollup Standee", "Exhibition", "Portable"]
+  },
+  {
+    "id": "port-14",
+    "title": "Custom Corporate Polo & Collar Merchandise",
+    "category": "Promotional Products",
+    "image": "/images/services/tshirts-rack.jpg",
+    "description": "Vibrant series of corporate polo collared t-shirts with embroidered crest and tailored sizing.",
+    "client": "Corporate Merchandise",
+    "tags": ["Polo Shirts", "Embroidery", "Corporate Wear"]
+  },
+  {
+    "id": "port-15",
+    "title": "Aura Creations Master Brand Showcase",
+    "category": "Branding",
+    "image": "/images/portfolio/master-collage.jpg",
+    "description": "Comprehensive portfolio collage showcasing Aura Creations' complete spectrum of design, print and branding prowess.",
+    "client": "Aura Creations Portfolio",
+    "tags": ["Master Showcase", "Brand Triad", "Guntur AP"]
+  }
+]
